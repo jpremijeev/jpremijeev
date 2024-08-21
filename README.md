@@ -12,9 +12,9 @@ I am a motivated graduate student pursuing a **Master of Computing** at the **Na
 - **Other Tools:** T24 Software, Eclipse, UiPath, Visual Studio Code, JIRA
 
 ## 💼 Work Experience
-#### Software Engineer | Temenos India Private Limited | Oct 2020 - Oct 2022
-#### Data Analyst Intern | Science Centre Singapore | May 2024 - Sep 2024
-#### Programmer Intern | Little Prince Game Studio | May 2023 - Jun 2023
+- Software Engineer | [Temenos India Private Limited](https://www.temenos.com/) | Oct 2020 - Oct 2022
+- Data Analyst Intern | [Science Centre Singapore](https://www.science.edu.sg/) | May 2024 - Sep 2024
+- Programmer Intern | [Little Prince Game Studio](https://littleprincestudio.com/) | May 2023 - Jun 2023
 
 ## 🛠️ Projects
 - Predicting Plant Diseases (Image Classification) | Jan 2024 - Apr 2024
