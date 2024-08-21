@@ -12,17 +12,17 @@ I am a motivated graduate student pursuing a **Master of Computing** at the **Na
 - **Other Tools:** T24 Software, Eclipse, UiPath, Visual Studio Code, JIRA
 
 ## 💼 Work Experience
-### Software Engineer | Temenos India Private Limited | Oct 2020 - Oct 2022
-### Data Analyst Intern | Science Centre Singapore | May 2024 - Sep 2024
-### Programmer Intern | Little Prince Game Studio | May 2023 - Jun 2023
+#### Software Engineer | Temenos India Private Limited | Oct 2020 - Oct 2022
+#### Data Analyst Intern | Science Centre Singapore | May 2024 - Sep 2024
+#### Programmer Intern | Little Prince Game Studio | May 2023 - Jun 2023
 
 ## 🛠️ Projects
-### Predicting Plant Diseases (Image Classification) | Jan 2024 - Apr 2024
-### Predicting HDB Rental Rates | Aug 2023 - Nov 2023
-### Recommendation Engine for Universities | Jan 2023 - Apr 2023
+- Predicting Plant Diseases (Image Classification) | Jan 2024 - Apr 2024
+- Predicting HDB Rental Rates | Aug 2023 - Nov 2023
+- Recommendation Engine for Universities | Jan 2023 - Apr 2023
 
 ## 📚 Publications
-### Health Monitoring of Soldiers Using Efficient MANET Protocol | Dec 2020
+#### Health Monitoring of Soldiers Using Efficient MANET Protocol | Dec 2020
 - **Published in IEEE RAICS 2020**: Designed a health monitoring system that transmits soldiers' health data over a MANET with an efficient routing protocol, simulated using OMNET++.
 
 ## 🌐 Let's Connect!
