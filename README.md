@@ -24,8 +24,8 @@
 **Published in IEEE RAICS 2020**: Designed a health monitoring system that transmits soldiers' health data over a MANET with an efficient routing protocol, simulated using OMNET++.
 
 ## 🌐 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/premi-j/)
-- Telegram [@premijeeva](https://t.me/premijeeva)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/premi-j/)
+- ✈️ Telegram [@premijeeva](https://t.me/premijeeva)
 
 ## 🌟 Feel free to check out!
 - [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
