@@ -27,3 +27,4 @@ I am a motivated graduate student pursuing a **Master of Computing** at the **Na
 
 ## 🌐 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/premi-j/)
+- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
