@@ -3,9 +3,7 @@
 ## 🌟 Current Position
 - Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/) **|** MAY to SEPT 2024
 
-🚀 **Seeking:** <span style="color:blue">Full-time data engineering and analytics roles starting **October 2024.**</span>
-
-🚀 **Seeking:** Full-time data engineering and analytics roles starting **October 2024.**
+🚀 **Seeking:** **🎯 Full-time data engineering and analytics roles starting 🗓️ October 2024.**
 
 ## 💼 Work Experience
 - Software Engineer at [Temenos India Private Limited](https://www.temenos.com/) **|** OCT 2020 to OCT 2022
