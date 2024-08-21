@@ -1,18 +1,17 @@
 # 👋 Hi there, I am Premi Jeevarathinam
 
 ## 🌟 Current Position
-- Data Analyst Intern | [Science Centre Singapore](https://www.science.edu.sg/)  | May 2024 - Sep 2024
-
+- Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/)
 ---
 
-🚀 **Seeking:** Full-time data engineering and analytics roles starting **October 2024**.
+🚀 **Seeking:** Full-time data engineering and analytics roles starting October 2024.
 
 ---
 
 ## 💼 Work Experience
-- Software Engineer | [Temenos India Private Limited](https://www.temenos.com/) | Oct 2020 - Oct 2022
-- Programmer Intern | [Little Prince Game Studio](https://littleprincestudio.com/) | May 2023 - Jun 2023
-- Regression Engineer Intern | [Temenos India Private Limited](https://www.temenos.com/) | Jan 2020 - Aug 2020
+- Software Engineer at [Temenos India Private Limited](https://www.temenos.com/)
+- Programmer Intern at [Little Prince Game Studio](https://littleprincestudio.com/) 
+- Regression Engineer Intern at [Temenos India Private Limited](https://www.temenos.com/) 
 
 ---
 
@@ -22,9 +21,9 @@
 ---
 
 ## 🛠️ Projects
-- [Predicting Plant Diseases (Image Classification)](https://github.com/jpremijeev/IS5126-Hands-on-With-Applied-Analytics) | Jan 2024 - Apr 2024
-- [Predicting HDB Rental Rates](https://github.com/jpremijeev/CS5228-Knowledge-Discrovery-and-Data-Mining) | Aug 2023 - Nov 2023
-- [Recommendation Engine for Universities](https://github.com/jpremijeev/IT5006-Fundamentals-of-Data-Analytics) | Jan 2023 - Apr 2023
+- [Predicting Plant Diseases (Image Classification)](https://github.com/jpremijeev/IS5126-Hands-on-With-Applied-Analytics) 
+- [Predicting HDB Rental Rates](https://github.com/jpremijeev/CS5228-Knowledge-Discrovery-and-Data-Mining) 
+- [Recommendation Engine for Universities](https://github.com/jpremijeev/IT5006-Fundamentals-of-Data-Analytics) 
   
 ---
 
