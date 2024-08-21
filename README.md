@@ -17,12 +17,10 @@ I am a motivated graduate student pursuing a **Master of Computing** at the **Na
 - Programmer Intern | [Little Prince Game Studio](https://littleprincestudio.com/) | May 2023 - Jun 2023
 
 ## 🎓 Education
-### Master of Computing – General Track | National University of Singapore | Jan 2023 – Nov 2024
+##### Master of Computing – General Track | National University of Singapore | Jan 2023 – Nov 2024
 - **Courses:** Fundamentals of Data Analytics & AI, Data Mining, Big Data Systems for Data Science, Hands-on with Applied Analytics, Software Development & DSA (Python), Software Engineering on Application Architecture.
-
-### Bachelor of Engineering in Electronics and Communication | Anna University (PSG Institute of Technology and Applied Research), Tamil Nadu, India | Aug 2016 – Aug 2020
+##### Bachelor of Engineering in Electronics and Communication | Anna University (PSG Institute of Technology and Applied Research), Tamil Nadu, India | Aug 2016 – Aug 2020
 - **Courses:** Object Oriented Programming, Algorithms & Data Structures, Programming Languages, Operating Systems, Computer Networks.
-
 
 ## 🛠️ Projects
 - Predicting Plant Diseases (Image Classification) | Jan 2024 - Apr 2024
