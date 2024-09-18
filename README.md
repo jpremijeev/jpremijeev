@@ -5,6 +5,9 @@
 
 🚀 **Seeking:** **🎯 Full-time data engineering and analytics roles starting 🗓️ October 2024.**
 
+## 🌟 Feel free to check out!
+- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
+
 ## 💼 Work Experience
 - Software Engineer at [Temenos India Private Limited](https://www.temenos.com/) **|** OCT 2020 to OCT 2022
 - Programmer Intern at [Little Prince Game Studio](https://littleprincestudio.com/) **|** MAY to JUN 2023
@@ -26,6 +29,3 @@
 ## 🌐 Let's Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/premi-j/)
 - ✈️ Telegram [@premijeeva](https://t.me/premijeeva)
-
-## 🌟 Feel free to check out!
-- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
