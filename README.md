@@ -1,8 +1,5 @@
 # 👋 Hi there, I am Premi Jeevarathinam
 
-## 🌟 Current Position
-- Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/) **|** MAY to SEPT 2024
-
 🚀 **Seeking:** **🎯 Full-time data engineering and analytics roles starting 🗓️ October 2024.**
 
 ## 🌟 Feel free to check out!
@@ -11,7 +8,8 @@
 ## 💼 Work Experience
 - Software Engineer at [Temenos India Private Limited](https://www.temenos.com/) **|** OCT 2020 to OCT 2022
 - Programmer Intern at [Little Prince Game Studio](https://littleprincestudio.com/) **|** MAY to JUN 2023
-- Regression Engineer Intern at [Temenos India Private Limited](https://www.temenos.com/) **|** JAN to AUG 2020 
+- Regression Engineer Intern at [Temenos India Private Limited](https://www.temenos.com/) **|** JAN to AUG 2020
+- Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/) **|** MAY to SEP 2024
 
 ## 🎓 Education
 - Master of Computing – General Track  at [National University of Singapore](https://nus.edu.sg/) **|** JAN 2023 to NOV 2024
@@ -21,6 +19,7 @@
 - [Predicting Plant Diseases (Image Classification)](https://github.com/jpremijeev/IS5126-Hands-on-With-Applied-Analytics) **|** MAR 2024
 - [Predicting HDB Rental Rates](https://github.com/jpremijeev/CS5228-Knowledge-Discrovery-and-Data-Mining) **|** NOV 2023
 - [Recommendation Engine for Universities](https://github.com/jpremijeev/IT5006-Fundamentals-of-Data-Analytics) **|** APR 2023
+- [Figma Design Idea](https://github.com/jpremijeev/Figma-Design) **|** SEP 2024
 
 ## 📚 Publications
 - [Health Monitoring of Soldiers Using Efficient MANET Protocol](https://ieeexplore.ieee.org/document/9332510/) **|** Dec 2020
