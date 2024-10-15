@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Premi Jeevarathinam
 
-🚀 **Seeking:** **🎯 Full-time data engineering and analytics roles starting 🗓️ October 2024.**
+🚀 **Seeking:** **🎯 Full-time roles in software engineering, data engineering and analytics starting immediately.**
 
 ## 🌟 Feel free to check out!
 - [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
