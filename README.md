@@ -7,9 +7,9 @@
 
 ## 💼 Work Experience
 - Software Engineer at [Temenos India Private Limited](https://www.temenos.com/) **|** OCT 2020 to OCT 2022
+- Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/) **|** MAY to SEP 2024
 - Programmer Intern at [Little Prince Game Studio](https://littleprincestudio.com/) **|** MAY to JUN 2023
 - Regression Engineer Intern at [Temenos India Private Limited](https://www.temenos.com/) **|** JAN to AUG 2020
-- Data Analyst Intern at [Science Centre Singapore](https://www.science.edu.sg/) **|** MAY to SEP 2024
 
 ## 🎓 Education
 - Master of Computing – General Track  at [National University of Singapore](https://nus.edu.sg/) **|** JAN 2023 to NOV 2024
