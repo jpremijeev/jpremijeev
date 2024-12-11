@@ -3,7 +3,7 @@
 🚀 **Seeking:** **🎯 Full-time roles in software engineering, data engineering and analytics starting immediately.**
 
 ## 🌟 Feel free to check out!
-- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
+- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20resume.pdf)
 
 ## 💼 Work Experience
 - Software Engineer at [Temenos India Private Limited](https://www.temenos.com/) **|** OCT 2020 to OCT 2022
