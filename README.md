@@ -2,7 +2,7 @@
 🚀 **Seeking:** **🎯 Remote roles in data engineering, data analytics and software engineering — available immediately.**
 
 ## 🌟 Feel free to check out!
-- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20resume.pdf)
+- [Resume](https://github.com/jpremijeev/jpremijeev/blob/main/Premi%20Jeevarathinam.pdf)
 
 ## 💼 Work Experience
 - Data Engineer at [OCBC Bank](https://www.ocbc.com/) (via [NTT Data](https://www.nttdata.com/)) **|** FEB 2025 to Present
